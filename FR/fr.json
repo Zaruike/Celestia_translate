@@ -22,7 +22,9 @@
     "❌ The specified member (**{0}**) cannot be banned!": "❌ La personne spécifiée (**{0}**) ne peut être bannie !",
     "❌ You cannot ban someone who has a higher role than you!": "❌ Vous ne pouvez pas bannir quelqu'un ayant un role équivalent ou supérieur au votre !",
     "🔨 **{0}** banned **{1}** (ID:{2}).": "🔨 **{0}** a banni **{1}** (ID:{2}).",
-    "Who do you want me to ban? 😮 What should I ban them about?": "",
+    "Who do you want me to ban? 😮 What should I ban them about?": "Who do you want me to ban? 😮 What should I ban them about?",
+    "Who do you want me to warn? 😮 What should I ban them about?": "Who do you want me to warn? 😮 What should I ban them about?",
+    "Who do you want me to kick? 😮 What should I ban them about?": "Who do you want me to kick? 😮 What should I ban them about?",
     "✅ Banned **{0}**!": "✅ **{0}** banni !",
     "❌ An error has occured! Please retry.": "❌ Une erreur est survenue ! Veuillez réessayer plus tard.",
 
