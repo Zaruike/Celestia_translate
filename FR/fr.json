@@ -336,7 +336,7 @@
     "Help for {0} command [{1}]": "Help for {0} command [{1}]",
     
     "_note42": "music",
-    "You're not in a voice channel!": "Vous n'êtes pas dans un channel vocal !,
+    "You're not in a voice channel!": "Vous n'êtes pas dans un channel vocal !",
     "Joined and bound to 🔈**{0}** and #**{1}**.": "Joined and bound to 🔈**{0}** and #**{1}**.",
     "Enqueued {0} requested by {1}": "Enqueued {0} requested by {1}",
     "Enqueued {0} songs from {1} requested by {2}": "Enqueued {0} songs from {1} requested by {2}",
