@@ -270,6 +270,11 @@
     
     "_note30": "warns",
     "ℹ **{0}** has {1} warns.\nWarn cases (oldest to newest): {2}.\nUnwarn cases (oldest to newest): {3}.": "ℹ **{0}** a {1} avertissements.\nAvertissements (plus récent au plus ancien): {2}.\nRetraits d'avertissements (plus récent au plus ancien): {3}.",
+    "❌ The specified member (**{0}**) cannot be warned!": "❌ The specified member (**{0}**) cannot be warned !",
+    "**Warning**: {0}": "**Warning**: {0}",
+    "__Reason :__ {0}": "__Reason :__ {0}",
+    "Sent warning to {0}": "Sent warning to {0}",
+    "{0} member {1}": "{0} member {1}",
 
     "_note31": "poll",
     "❌ Unable to display poll results! Poll message got deleted (ID:{0})": "❌ Impossible d'afficher les résultats du sondage. Le message a été supprimé ! (ID:{0})",
