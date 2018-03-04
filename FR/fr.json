@@ -45,7 +45,7 @@
     "✅ Channel `{0}` set to {1}!": "✅ Salon `{0}` réglé sur {1}!",
     "❌ The length of the value may not exceed 1500 caracters!": "❌ La longueur de la valeur ne doit pas dépasser les 1500 caractères !",
     "✅ Timezone set to **{0}**!\n*Note: if you have set a wrong timezone, the UTC time will be shown instead*": "✅ Fuseau horaire réglé sur **{0}**!\n*Note: si vous avez fourni un fuseau invalide, le temps UTC sera affiché à la place*",
-    "❌ `{0}` is not a valid language or it has not been translated yet, be the first!": "❌ `{0}` n'est pas une langue valide ou alors sa traduction n'a pas été réalisée, soyez le premier !",
+    "❌ `{0}` is not a valid language or it has not been translated yet, be the first ! https://github.com/Jorisvideo/Celestia_translate": "❌ `{0}` n'est pas une langue valide ou alors sa traduction n'a pas été réalisée, soyez le premier ! https://github.com/Jorisvideo/Celestia_translate",
     "✅ Locale set to `{0}`!": "✅ Langue changée pour `{0}`!",
     "✅ Locale list:": "✅ Liste des paramètres régionaux:",
     "🐬 OK, the new prefix for this server is `{0}`": "",
@@ -72,7 +72,7 @@
     "_note8": "unban",
     "⚙ **{0}** unbanned **{1}#{2}** (ID:{3}).": "⚙ **{0}** a débanni **{1}#{2}** (ID:{3}).",
     "✅ Unbanned **{0}#{1}**!": "✅ **{0}#{1}** débanni !",
-    "❌ You must specify a user to unban!": "❌ You must specify a user to unban!",
+    "❌ You must mention or specify a user to Unban!": "❌ Vous devez mentionner ou spécifier un utilisateur à Unban !",
     
     "_note9": "unwarn",
     "❌ You must mention or specify a user to unwarn!": "❌ Vous devez spécifier ou mentionner à utilisateur à désavertir !",
@@ -98,6 +98,7 @@
     "Informations sur le matériel": "Informations sur le matériel",
     "OS": "OS",
     "Translators": "Traducteurs",
+    "I am sure that you already know this... The command prefix for this server is incomming": "Je suis sûr que vous le savez déjà ... Le préfixe de commande pour ce serveur est en cours d'utilisation",
 
     "_note12": "afk",
     "No reason": "Aucune raison",
@@ -144,6 +145,8 @@
     "🚔 Explicit content filter": "🚔 Filtrage du contenu explicite",
     "🗺 Informations about **{0}** :": "🗺 Informations à propos de **{0}** :",
     "🏠 Region": "🏠 Région",
+    "Would you like Celestia ?": "Would you like Celestia ?",
+    "[Click here to invite Celestia to your server !]({0})": "[Click here to invite Celestia to your server !]({0})",
 
     "_note17": "translate",
     "Original text ({0})": "Texte original ({0})",
@@ -344,7 +347,7 @@
     "Request by": "Demandé par",
     "🔀 Queue shuffled!": "🔀 Queue shuffled!",
     "Queue complete.": "File d'attente complète.",
-    "Please summon me using \`join\` to start playing the queue.": "Please summon me using \`join\` to start playing the queue.",
+    "Please summon me using `join` to start playing the queue.": "Please summon me using `join` to start playing the queue.",
     "There's nothing to skip !": "There's nothing to skip !",
     "Nothing is playing right now.": "Nothing is playing right now.",
     "Gomen, I can't display the queue right now. Try again in a few moments onegai.": "Gomen, I can't display the queue right now. Try again in a few moments onegai.",
@@ -371,6 +374,27 @@
     "🎥 Genres": "🎥 Genres",
     "⭐ Score:": "⭐ Score:",
     "Select one of the following:": "Select one of the following:",
-    "time up (cancel automatic)": "time up (cancel automatic)"   
+    "time up (cancel automatic)": "time up (cancel automatic)",
+    "Go check **{0}'s** leaderboard here https://celestia.takohell.com/level?svrid={1}": "Allez voir le classement de **{0}** ici https://celestia.takohell.com/level?svrid={1}",
+
+    "_note46": "rank",
+    "Ranks Local": "Classement local",
+    "LVL Local": "LVL Local",
+    "✉️ XP": "✉️ XP",
+    "XP remaining": "XP remaining",
+    "Ranks Global": "Ranks Global",
+    "LVL Global": "LVL Global",
+
+    "_note47": "emoji",
+    "Name:": "Name:",
+    "Tag:": "Tag:",
+    "Appearance:": "Appearance:",
+    "Creation date:": "Creation date:",
+    "ID:": "ID:",
+    "ID reaction:": "ID reaction:",
+    "Information about {0}:": "Information about {0}:",
+    "List of server emojis {0}": "List of server emojis {0}",
+    "Émoji not found !": "Émoji not found !"
+
   }
 }
