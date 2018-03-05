@@ -97,8 +97,10 @@
     "System Time":"Temps du système",
     "Informations sur le matériel": "Informations sur le matériel",
     "OS": "OS",
+    "[Click here]": "[Cliquez ici]",
+    "👥 Team": "👥 Équipe",
     "Translators": "Traducteurs",
-    "I am sure that you already know this... The command prefix for this server is incomming": "Je suis sûr que vous le savez déjà ... Le préfixe de commande pour ce serveur est en cours d'utilisation",
+    "I am sure that you already know this... The command prefix for this server is incomming": "Je suis sûre que vous le savez déjà ... Le préfix de commande pour ce serveur est en cours d'utilisation",
 
     "_note12": "afk",
     "No reason": "Aucune raison",
@@ -399,7 +401,29 @@
     "ID reaction:": "ID reaction:",
     "Information about {0}:": "Information about {0}:",
     "List of server emojis {0}": "List of server emojis {0}",
-    "Émoji not found !": "Émoji not found !"
+    "Émoji not found !": "Émoji not found !",
+
+    "_note48": "addrole",
+    "❌ You must include the role to search !": "❌ Vous devez inclure le rôle à rechercher !",
+    "Who would you like to add the role {0} to? Reply with `cancel` to end the command": "Who would you like to add the role {0} to? Reply with `cancel` to end the command",
+    "User canceled": "User canceled",
+    "Successfully added the role {0} to {1}.": "Successfully added the role {0} to {1}.",
+
+    "_note49": "vocaloid",
+    "👤 Artist": "👤 Artiste",
+    "📆 Publish Date": "📆 Date de Publication",
+    "❯ Length": "❯ Temps",
+    "link": "lien",
+
+    "_note50": "channel",
+    "`No Topic`": "`Aucun Topic`",
+    "📆 Created At": "📆 Créé à",
+    "Users": "Utilisateurs",
+    "Category": "Categories",
+    "No results for search {0}": "Aucun résultat pour la recherche {0}",
+    "no reason !": "Aucune raison !",
+    "Alright, I'll show that when someone mentions you on this server. Your current afk `no reason !`": "D'accord, je vais vous montrer que quand quelqu'un vous mentionne sur ce serveur. Votre afk actuel `Aucune raison!",
+    "Alright, I'll show that when someone mentions you on this server. Your current afk {0}": "D'accord, je vais montrer que quand quelqu'un vous mentionne sur ce serveur. Votre afk actuel `{0}`"
 
   }
 }
