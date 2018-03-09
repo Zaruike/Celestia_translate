@@ -49,7 +49,7 @@
     "❌ `{0}` is not a valid language or it has not been translated yet, be the first ! https://github.com/Jorisvideo/Celestia_translate": "❌ `{0}` n'est pas une langue valide ou alors sa traduction n'a pas été réalisée, soyez le premier ! https://github.com/Jorisvideo/Celestia_translate",
     "✅ Locale set to `{0}`!": "✅ Langue changée pour `{0}`!",
     "✅ Locale list:": "✅ Liste des paramètres régionaux:",
-    "🐬 OK, the new prefix for this server is `{0}`": "",
+    "🐬 OK, the new prefix for this server is `{0}`": "🐬 OK, le nouveau préfixe pour ce serveur est `{0}`",
     "Channels": "Salons",
     "Messages": "Messages",
     "Roleme list": "Liste roleme",
@@ -535,3 +535,4 @@
     "{0}'s Custom Emojis": "Emojis personnalisés de {0}"
   }
 }
+
